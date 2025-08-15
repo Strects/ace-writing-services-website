@@ -19,6 +19,10 @@ The below is a sample only and does not represent the entirety of the essay prod
 
 {{< /callout >}}
 
+## Project Title
+
+Why are neurobiological theories relevant in the prevention of suicide and suicidal ideation?
+
 ## Introduction and Key Definitions
 
 Suicide is one of the leading causes of death, both domestically and internationally, even more so than homicide. It is often, but not always, preceded by self-injurious behaviour and previous non-fatal suicide attempts, as shown in Figure 1 [omitted], also further contextualised by the contents of this paper. The World Health Organization (2021) reports that over 700,000 people die by suicide each year. Despite this, the academic study of suicide is generally limited in its scope.

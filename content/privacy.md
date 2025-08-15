@@ -12,7 +12,7 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-The below information applies to site visitors. Additional information is relevant for clients that engage with Ace Writing Services, though the specifics of these terms are always outlined in the Service Level Agreement that is signed by both parties prior to work being completed.
+The below information applies to site visitors. Additional information is relevant for clients that engage with Ace Writing Services, though the specifics of these terms are always outlined in the Service Level Agreement that is signed by both parties prior to work being completed. Applicable to all clients is that relevant information about themselves and their orders are stored on Airtable’s servers for business continuity and other legitimate purposes. See Airtable’s [Security Whitepaper](https://assets.ctfassets.net/wl95ljfippl8/1j9UbmmoSaoMNusVps3ib3/0bac70738458912e7b6219756c3518a8/Airtable_Security_Whitepaper.pdf) and [Privacy Whitepaper](https://assets.ctfassets.net/wl95ljfippl8/6DBjWkwaoSVrVf3MdSpHdZ/e35754f5885bc6722b56e24dca618170/Airtable_Privacy_Whitepaper.pdf) for information about how your data is kept secure.
 
 No personally identifiable data is collected from you having visited or interacted with this website. Cloudflare collects aggregate data for statistical purposes, though such data cannot be manipulated to isolate any given individual's data.
 
