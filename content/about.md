@@ -16,6 +16,6 @@ seo:
 
 > I am currently an undergraduate student in the United Kingdom working towards a Bachelor of Science with Honours in Psychology. I have A-level qualifications at grade A in English literature, psychology and law and 10 GCSEs/equivalent.
 
-> You can contact me via email at `contact@acewritingservices.co.uk` or on Discord at `strects.`.
+> You can contact me via email at **contact@acewritingservices.co.uk** or on Discord at **strects.** (note the full stop/period).
 
---- Yaman Choudhury
+---Yaman Choudhury

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Information on Ace Writing Services</title>
-    <link>http://localhost:63744/docs/information/</link>
+    <link>http://localhost:1313/docs/information/</link>
     <description>Recent content in Information on Ace Writing Services</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
     <lastBuildDate>Thu, 07 Sep 2023 16:04:48 +0200</lastBuildDate>
-    <atom:link href="http://localhost:63744/docs/information/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/docs/information/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
-      <link>http://localhost:63744/docs/information/introduction/</link>
+      <link>http://localhost:1313/docs/information/introduction/</link>
       <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
-      <guid>http://localhost:63744/docs/information/introduction/</guid>
+      <guid>http://localhost:1313/docs/information/introduction/</guid>
       <description>&lt;p&gt;The portfolio available on this area of the website includes a number of documents produced under contract for clients as to represent my writing ability. Some personal or academic documents may also be included to further exemplify this.&lt;/p&gt;</description>
     </item>
   </channel>
