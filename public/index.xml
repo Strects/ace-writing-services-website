@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
-    <lastBuildDate>Thu, 07 Sep 2023 16:27:22 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 12:43:47 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Importance of Accessibility Statements</title>
+      <link>http://localhost:1313/blog/the-importance-of-accessibility-statements/</link>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/the-importance-of-accessibility-statements/</guid>
+      <description>&lt;h2 id=&#34;what-is-an-accessibility-statement&#34;&gt;What is an accessibility statement?&lt;/h2&gt;&#xA;&lt;p&gt;An accessibility statement is a public document that communicates what an organisation is doing to provide digital products, services, and content that are accessible to disabled people.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Welcome to the New Website</title>
       <link>http://localhost:1313/blog/welcome-to-the-new-website/</link>
@@ -71,13 +78,6 @@
       <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
       <guid>http://localhost:1313/docs/information/introduction/</guid>
       <description>&lt;p&gt;The portfolio available on this area of the website includes a number of documents produced under contract for clients as to represent my writing ability. Some personal or academic documents may also be included to further exemplify this.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Privacy Policy (Promise Solutions)</title>
-      <link>http://localhost:1313/docs/portfolio/legal-documents/privacy-policy-promise-solutions/</link>
-      <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
-      <guid>http://localhost:1313/docs/portfolio/legal-documents/privacy-policy-promise-solutions/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Promise Solutions has developed this Privacy Policy to explain how Countr, as a Data Controller, may collect, retain, process, share and transfer your User Data when you visit our Sites or use our Services. This Privacy Policy applies to your User Data when you visit Sites or use Services, and is not applicable to online websites or services that we do not own or have any degree of control over.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,6 @@
 ---
 title: "Privacy Notice"
-description: ""
+description: "Official Privacy Notice for website visitors."
 summary: ""
 date: 2023-09-07T17:19:07+02:00
 lastmod: 2025-08-14T00:00:00+01:00

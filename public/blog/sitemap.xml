@@ -2,6 +2,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
+      <loc>http://localhost:1313/blog/the-importance-of-accessibility-statements/</loc>
+      <lastmod>2025-08-17T12:43:47+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
       <loc>http://localhost:1313/blog/welcome-to-the-new-website/</loc>
       <lastmod>2023-09-07T16:27:22+02:00</lastmod>
       <changefreq>monthly</changefreq>
