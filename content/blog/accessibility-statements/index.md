@@ -41,6 +41,6 @@ Accessibility statements should be easy to find and accessible from multiple pla
 Ultimately, accessibility is important to ensure all users can navigate an organisation's content freely and without restriction. By publishing an accessibility statement, an organisation demonstrates its commitment to accessibility, as well as being proactive in recognising how it has ensured accessibility and also acknowledging what needs to be improved.
 
 {{< callout context="tip" title="Interested in having a comprehensive accessibility statement produced for your organisation?" icon="outline/info-circle" >}}
-Contact Ace Writing Services today via Discord at **strects.** or by email at **contact@acewritingservices.co.uk**.
+Contact Ace Writing Services today via [Discord](/discord/) or by email at **contact@acewritingservices.co.uk**.
 
 {{< /callout >}}
