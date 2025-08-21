@@ -39,7 +39,7 @@ You must be at least thirteen (13) years of age to join the Discord server in li
 
 If you communicate with Ace Writing Services, we may collect information relating to that communication whether it takes the form of email, letter, or any other form of communication.
 
-We may also collect data in a form that does not, on its own, allow for direct association with any specific individual.
+We may also collect data in a form that does not allow for direct association with any specific individual.
 
 ## Section 3: Payment Information and Transactions
 
