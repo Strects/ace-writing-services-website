@@ -94,6 +94,6 @@
   weight = 10
 
 # [[footer]]
-#   name = "Terms of Service"
-#   url = "/terms/"
-#   weight = 20
+#  name = "Terms of Service"
+#  url = "/terms-of-service/"
+#  weight = 10
